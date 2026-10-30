@@ -1,2 +1,2 @@
-- A forum to bring together elected representatives from the [[Taff Catchment]] area, from the [[Senedd]] and [[Parliament]], to raise issues that can benefit from a collaborative approach.
+- A forum to bring together elected representatives from the [[Taff Catchment]] area, from the [[Senedd]] and [[Parliament]], to raise issues of interest and concern to their constituents, and to understand how they can support the objectives of the [[Taff Catchment Partnership]].
 -
