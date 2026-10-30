@@ -1,0 +1,1 @@
+- The [Senedd](https://senedd.wales/), officially known as the Welsh Parliament in English and Senedd Cymru in Welsh, is the devolved, unicameral legislature of Wales.
