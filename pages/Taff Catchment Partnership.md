@@ -1,3 +1,5 @@
+public:: true
+
 - [Website](https://taffcatchment.cymru)
 - [Mastodon](https://toot.wales/@taffcatchment)
 - [LinkedIn](https://www.linkedin.com/company/136984120)
